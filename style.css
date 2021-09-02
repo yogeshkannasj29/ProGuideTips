@@ -30,7 +30,7 @@
 }
 
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 10px;display: none;}
+  .sidenav {padding-top: 10px;top: 1%;}
   .sidenav a {font-size: 8px;}
 }
   .nav {
